@@ -25,16 +25,17 @@ body {
   font-size: 15px;
   line-height: 20px;
   color: #696871;
-  padding-right: 10px;
+  padding: 10px;
+}
+
+.call {
+  display: block;
+  padding: 10px;
 }
 
 .menu:hover,
 .menu:focus {
   color: #19191b;
-}
-
-.menu:last-child {
-  padding-right: 0;
 }
 
 .main-section {
